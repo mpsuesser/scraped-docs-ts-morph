@@ -2,8 +2,8 @@
 url: https://raw.githubusercontent.com/dsherret/ts-morph/latest/docs/navigation/type-checker.md
 title: "Type Checker"
 description: ""
-access_date: 2026-08-03T18:13:38.148Z
-current_date: 2026-08-03T18:13:38.148Z
+access_date: 2026-08-03T18:24:07.853Z
+current_date: 2026-08-03T18:24:07.853Z
 ---
 
 ## Type Checker
