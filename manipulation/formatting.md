@@ -2,8 +2,8 @@
 url: https://raw.githubusercontent.com/dsherret/ts-morph/latest/docs/manipulation/formatting.md
 title: "Formatting"
 description: ""
-access_date: 2026-08-03T19:02:39.365Z
-current_date: 2026-08-03T19:02:39.365Z
+access_date: 2026-08-03T19:10:24.072Z
+current_date: 2026-08-03T19:10:24.072Z
 ---
 
 ## Formatting
