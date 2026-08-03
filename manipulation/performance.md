@@ -2,8 +2,8 @@
 url: https://raw.githubusercontent.com/dsherret/ts-morph/latest/docs/manipulation/performance.md
 title: "Performance"
 description: ""
-access_date: 2026-08-03T19:10:24.072Z
-current_date: 2026-08-03T19:10:24.072Z
+access_date: 2026-08-03T19:40:39.141Z
+current_date: 2026-08-03T19:40:39.141Z
 ---
 
 ## Performance
